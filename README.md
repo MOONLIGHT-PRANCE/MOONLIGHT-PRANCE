@@ -17,6 +17,6 @@ $\texttt{\color{#332d56} 𑙗 }$  $\texttt{\color{#36456f} he/she }$  ㅤ $\text
 
 
 
-$\texttt{\color{#33335c} " Ah , maybe }$ $\texttt{\color{#36456f} i'll never }$ $\texttt{\color{#456589} escape these }$ $\texttt{\color{#5f7b8d} memories. " }$  
+$\texttt{\color{#33335c} " Ah , maybe }$ $\texttt{\color{#36456f} i'll never }$ $\texttt{\color{#456589} escape these }$ $\texttt{\color{#5f7b8d} memories.}$ $\texttt{\color{#456589}" }$ 
 
 $\texttt{\color{#7f9792}꒰◡◡◡◡ ᧔ᶻ 𝗓 𐰁२ ◡◡◡◡꒱ }$
